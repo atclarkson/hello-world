@@ -10,7 +10,8 @@
 - Funtions are not run in a program until they are "__called__" or "__invoked__" in a program
 
 
-```def is_even( i ):
+```python
+def is_even( i ):
     """
     Input: i, a postive int
     Returns True if i is even, otherwise False
