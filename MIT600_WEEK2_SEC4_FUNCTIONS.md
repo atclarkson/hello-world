@@ -60,8 +60,22 @@ def is_even( i ):
 - represents teh absense of a value
 
 
+### Keyword Arguments
 
+You can call the inputs by name and if so you can call them in any order.
 
+Also you can have default values for fucntion inputs just assign them at the time of definition.
+
+### Specifications
+-  A __contract__ between the implementer of a function and the clients who will use it
+  - __Assumptions:__ conditions that must be met by clients of the funtion; typically contraints on values of parameters
+  - __Gurantees:__ conditions that must be met by the function, providing it has been called in manner consistent with assumptions.
+
+#### Use docstring!
+
+Not required but good programmers __ALWAYS__ do.
+docstring should have what the inputs should be and what the return should be,
+If purpose of the function is not clear from those two then explain in more detail
 
 
 
