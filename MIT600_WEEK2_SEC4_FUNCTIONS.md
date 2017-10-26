@@ -19,7 +19,8 @@ def is_even( i ):
     print("hi")
     return i%2 == 0
     
-is_even(3)```
+is_even(3)
+```
 
 - `def` is the keyword It says it's about to define a function.
 - `is_even` is the name of the function
