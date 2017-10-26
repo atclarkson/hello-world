@@ -73,9 +73,9 @@ Also you can have default values for fucntion inputs just assign them at the tim
 
 #### Use docstring!
 
-Not required but good programmers __ALWAYS__ do.
-docstring should have what the inputs should be and what the return should be,
-If purpose of the function is not clear from those two then explain in more detail
+- Not required but good programmers __ALWAYS__ do.
+- docstring should have what the inputs should be and what the return should be,
+- If purpose of the function is not clear from those two then explain in more detail
 
 
 
